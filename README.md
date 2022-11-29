@@ -7,6 +7,8 @@
 Desafio, API que retorna o endereço.*
 
 Eu gostaria de obter o endereço completo como o json abaixo:
+<br>
+```yaml
 {
   "cep": "08340-146",
   "logradouro": "Rua Forte do Triunfo",
@@ -14,7 +16,8 @@ Eu gostaria de obter o endereço completo como o json abaixo:
   "localidade": "São Paulo",
   "uf": "SP"
 }
-
+```
+<br>
 Resultado de quando passo o cep na url por exemplo:
 {url_da_aplicação}/cep/<cep_escrito>
 
