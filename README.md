@@ -4,7 +4,7 @@
 
 ✅ Task:
 
-Desafio, API de que retorna o endereço.*
+Desafio, API que retorna o endereço.*
 
 Eu gostaria de obter o endereço completo como o json abaixo:
 {
@@ -21,5 +21,5 @@ Resultado de quando passo o cep na url por exemplo:
 Pegar o url param do cep, enviar para a api do via cep https://viacep.com.br/ws/01001000/json/
 E tratar o valor para retornar o json que foi descrito ali no começo.
 
-A aplicação também deve ter testes
+A aplicação também deve ter testes.
 
